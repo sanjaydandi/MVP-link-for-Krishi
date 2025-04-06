@@ -4,6 +4,9 @@ for demo video:- https://youtu.be/eOcuJi139Fg?si=wL6vq85e_1FgjvFE
 
 for accessing account use google sign in method
 
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
 🌾 Krishi – The Social Platform for Modern Farming
 Krishi is a next-generation social networking platform designed specifically for farmers, agri-enthusiasts, and vendors. Our mission is to digitally empower the agricultural community by bridging the gap between technology, information, and market access.
 
